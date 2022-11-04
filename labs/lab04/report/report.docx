@@ -1,4 +1,4 @@
----
+﻿---
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе 4"
 subtitle: "Простейший вариант"
@@ -108,22 +108,22 @@ This is text is both ***bold and italic***.
 Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001])
 
 ![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
-![Название рисунка](image/1)
+![Название рисунка](image/1.png)
 **Установка TeX Live**
 
-![Название рисунка](image/2)
+![Название рисунка](image/2png)
 **zcat install-tl-unx.tar.gz | tar xf и cd install-tl-**
 
-![Название рисунка](image/2)
+![Название рисунка](image/2png)
 **cd install-tl-**
 
-![Название рисунка](image/3)
+![Название рисунка](image/3png)
 **конца Установка**
 
-![Название рисунка](image/4)
+![Название рисунка](image/4png)
 **xport PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux**
 
-![Название рисунка](image/2018.PNG)
+![Название рисунка](image/2018png)
 **wget https://github.com/lierdakil/pandoc-**
 **crossref/releases/download/v0.3.13.0/pandoc-crossref-**
 **Linux.tar.xz**
@@ -132,13 +132,13 @@ This is text is both ***bold and italic***.
 **sudo cp /tmp/pandoc-2.18/bin/pandoc /usr/local/bin/**
 **sudo cp /tmp/pandoc-crossref /usr/local/bin/**
 
-![Название рисунка](image/00png)
+![Название рисунка](image/00pgg)
 **C помощью команды ls**
 # Выводы
 
 В заключение можно сказать, что лаборатория позволяет разрабатывать отчеты с использованием легкого языка разметки Markdown.
 
 # Список литературы{.unnumbered}
+
 ::: {#refs}
 :::
-
